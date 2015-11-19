@@ -1,0 +1,108 @@
+body {
+	font-size: 12px;
+	font-family: 'Georgia', serif;
+	line-height: 1.45;
+	background-image: url("../old_paper.jpg");
+
+}
+
+h1{
+	font-family: 'PT Serif', serif;
+	font-size: 94px;
+	text-align: center;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+h2{
+	font-family: 'PT Serif', serif;
+	font-size: 18px;
+	text-align: center;
+}
+
+h3{
+	font-size: 94px;
+	text-align: center;
+	margin: 10px;
+}
+
+#bordered{
+	border: thick;
+	border-style: double;
+	border-color: #000000;
+	width: 20%;
+	display: inline-block;
+	float: right;
+	margin-right: 20px;
+	margin-top: 40px;
+	text-align: center;
+	padding: 5px;
+
+}
+
+#htitle{
+	display: inline-block;
+	width: 60%;
+	margin-bottom: 0px;
+	margin-left: 150px;
+
+
+}
+
+#time{
+	border-top: thick;
+	border-bottom: thick;
+	border-top-style: double;
+	border-bottom-style: double;
+	border-top-color: #000000;
+	border-bottom-color: #000000;
+}
+
+
+
+p {
+	margin-bottom:  1.3em;
+	text-align: justify;
+}
+
+.atext {
+	-webkit-columns: 3 200px;
+	-moz-columns: 3 200px;
+	columns: 3 200px;
+	-webkit-column-gap: 50px;
+	-moz-column-gap: 50px;
+	column-gap: 50px;
+	-webkit-column-rule: 3px solid #000000;
+	-moz-column-rule: 3px solid #000000;
+	column-rule: 3px solid #000000;
+	width: 60%;
+	display: inline-block;
+	margin-right: 10px;
+	margin-left: 10px;
+	vertical-align: text-top;
+
+}
+
+b{
+	font-size: 18px;
+	line-height: 1.55;
+
+}
+
+hr {
+	color: #000000;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+span{
+	padding: 0 50px;
+	margin: 0 120px;
+}
+
+#pic{
+	display: inline-block;
+	 display: -moz-inline-stack;
+	 vertical-align: top;
+	margin-left: 15px;
+}
+
